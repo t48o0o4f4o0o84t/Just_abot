@@ -14,6 +14,7 @@ DEVELOPERS = ["@LibyanErwin", "@IBnde"]
 SUPPORT_USERNAME = "vkkvc"
 ADMIN_SUPPORT_LINK = "ccuucuc"
 
+TOKEN = '8521478146:AAF5BCZD6hBPWLhNjVNxmLMf2uZ8AQmGyG0'
 bot = telebot.TeleBot(TOKEN)
 
 user_amounts = {}
