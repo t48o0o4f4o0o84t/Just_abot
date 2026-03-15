@@ -7,7 +7,6 @@ import time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ChatJoinRequest
 from fuzzywuzzy import fuzz
 
-TOKEN = "YOUR_TOKEN_HERE" 
 
 ADMIN_IDS = [602830469, 6037311805]
 DEVELOPERS = ["@LibyanErwin", "@IBnde"]
